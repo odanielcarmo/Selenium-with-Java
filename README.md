@@ -39,10 +39,3 @@ O projeto cobre os fundamentos da automação web, incluindo:
 5.  Execute a classe `TesteLogin.java`.
 
 > **Nota:** Certifique-se de atualizar o caminho da variável `caminhoArquivo` dentro do código para o diretório onde o seu `index.html` está salvo localmente.
-
----
-Feito por **Heitor Reis de Santana** 🎓 
-Engenharia de Software | Software Engineering Student at UniJorge / SENAI CIMATEC
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-reis-de-santana/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heitorsantana.dev/)

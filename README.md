@@ -1,4 +1,5 @@
-# Selenium-with-Java
+# Selenium with Java - Automação de Testes de Sistemas
+
 
 
 Este repositório contém uma série de exercícios e implementações práticas focadas em testes automatizados de software utilizando **Java** e **Selenium WebDriver**. O projeto faz parte da minha jornada de aprendizado em Engenharia de Software, explorando como garantir a qualidade e o comportamento esperado de aplicações web.
